@@ -4,6 +4,9 @@
 /[Bb]uild/
 /[Bb]uilds/
 /Assets/AssetStoreTools*
+CraftyQuest/Temp/
+CraftyQuest/Library/
+Game builds/
 
 # Visual Studio 2015 cache directory
 /.vs/
